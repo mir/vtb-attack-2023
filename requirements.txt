@@ -1,0 +1,8 @@
+numpy==1.24.2
+plotly==5.13.1
+polars==0.16.8
+pyarrow==11.0.0
+sklearn==0.0.post1
+tenacity==8.2.1
+torch==1.13.1
+typing_extensions==4.5.0
